@@ -1,0 +1,10 @@
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Моделирование_1\obj\Debug\Моделирование_1.csproj.AssemblyReference.cache
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Моделирование_1\obj\Debug\Моделирование_1.Form1.resources
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Моделирование_1\obj\Debug\Моделирование_1.Properties.Resources.resources
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Моделирование_1\obj\Debug\Моделирование_1.csproj.GenerateResource.cache
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Моделирование_1\obj\Debug\Моделирование_1.csproj.CoreCompileInputs.cache
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Моделирование_1\bin\Debug\Моделирование_1.exe.config
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Моделирование_1\bin\Debug\Моделирование_1.exe
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Моделирование_1\bin\Debug\Моделирование_1.pdb
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Моделирование_1\obj\Debug\Моделирование_1.exe
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Моделирование_1\obj\Debug\Моделирование_1.pdb
